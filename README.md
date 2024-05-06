@@ -1,5 +1,5 @@
 <img align="center" alt="react" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000080&section=header&fontAlignY=50" />
-Olá! Eu sou o Gabriel Batista 🖐️
+Olá! Eu sou o Gabriel  🖐️
 Experiência e Interesses
 
 - 🐍 **Desenvolvimento Python:** Tenho experiência sólida em desenvolvimento Python, desde scripts simples até aplicações robustas e escaláveis.
